@@ -1,0 +1,39 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+header
+{
+    margin: 0px 0px 100px 0px;
+}
+.main
+{
+    position: absolute;
+    display: inline-block;
+
+}
+#manu
+{   
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+}
+#video
+{
+    position: absolute;
+    left: 200px;
+    display: inline-block;
+}
+#video iframe
+{
+    width: 700px;
+    height: 400px;
+}
+.subvideo
+{
+    position: absolute;
+    display: inline-block;
+    right: 20px;
+    width: 200px;
+}
